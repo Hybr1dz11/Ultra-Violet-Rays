@@ -23,6 +23,6 @@ If you are deploying to an alternative service or to a server, refer to [Deploy 
 Additional information such as [customizing your frontend](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Customizing-your-frontend) can be found on the [wiki](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki).
 
 
-<a href="https://github.com/Hybr1dz11/Ultra-Violet-Rays/blob/main/README.md">
+<a href="https://render.com/deploy?repo=https://Hybr1dz11/Ultra-Violet-Rays">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" />
 </a>
